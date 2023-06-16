@@ -1,0 +1,36 @@
+2023-06-08T08:10:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-content/plugins/woocommerce/src/Admin/Features/Navigation/Menu.php на строке 457
+
+2023-06-08T08:10:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/menu.php на строке 379
+
+2023-06-08T08:10:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/menu.php на строке 379
+
+2023-06-08T08:10:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/menu.php на строке 379
+
+2023-06-08T08:10:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/plugin.php на строке 125
+
+2023-06-08T08:10:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/includes/update.php на строке 539
+
+2023-06-08T08:10:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/plugin.php на строке 125
+
+2023-06-08T08:10:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/plugin.php на строке 125
+
+2023-06-08T08:11:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/menu.php на строке 379
+
+2023-06-08T08:11:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-admin/includes/image.php на строке 817
+
+2023-06-08T08:18:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/plugin.php на строке 125
+
+2023-06-08T08:30:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-08T10:01:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/rest-api/class-wp-rest-server.php на строке 836
+
+2023-06-08T10:02:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/rest-api/class-wp-rest-server.php на строке 836
+
+2023-06-08T10:02:03+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/rest-api/class-wp-rest-server.php на строке 836
+
+2023-06-08T10:02:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/rest-api/class-wp-rest-server.php на строке 836
+
+2023-06-08T10:11:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-product-reviews-v2-controller.php на строке 1
+
+2023-06-08T10:15:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php на строке 1736
+

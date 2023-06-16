@@ -1,0 +1,2 @@
+2023-06-10T15:56:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/587-21/web/kaneva.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2431
+
